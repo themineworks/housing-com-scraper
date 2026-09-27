@@ -1,0 +1,15 @@
+{
+  "name": "housing-com-scraper",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "32 India cities, rent & buy, 26 fields. Python, Node.js and cURL clients for the Housing.com Scraper on Apify, pay per result.",
+  "main": "housing_com_scraper.mjs",
+  "scripts": {
+    "start": "node housing_com_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/housing-com-scraper/"
+}
